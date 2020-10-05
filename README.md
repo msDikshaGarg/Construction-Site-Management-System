@@ -22,7 +22,7 @@ The queries used in this project are:
 * Each entity in the ER diagram becomes a table in the relational model. The multivalued attributes become a separate table.
 * Each Table is checked for anomalies and dependencies like functional dependencies, partial dependency and multivalued dependency. Then each table is normalized to remove
 anomalies and dependencies to make the data more consistent.   
-The languages used for the production of the web application are, Html, Css, Javascript and Php. For the server side programming Php was used along with Mysql
+* The languages used for the production of the web application are, Html, Css, Javascript and Php. For the server side programming Php was used along with Mysql
 for database creation and connectivity. The first step was to create the necessary tables on the machine’s database. This
 was done using the command line tool provided by MySQL. This was followed by creation of the front-end part for user’s interaction with the application and thereby
 with the database. Server side scripting was used for all the database related operations such as insertion, updation, deletion and viewing of the records.
