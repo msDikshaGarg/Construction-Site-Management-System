@@ -9,4 +9,4 @@ The queries used in this project are:
 * Query used to display the entered values.
 * Query to update a value.
 
-![alt text](ER diagram.jpg)
+![alt text](er_diagram.jpg)
